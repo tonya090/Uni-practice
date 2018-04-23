@@ -1,0 +1,9 @@
+Mon Oct 23 01:10:41 AEDT 2017 operation: ViewCard CardID: 10 status: viewed
+Mon Oct 23 01:12:02 AEDT 2017 operation: AddAnonymousCard CardID: 11 status: Added
+Mon Oct 23 01:12:08 AEDT 2017 operation: ViewCard CardID: 11 status: viewed
+Mon Oct 23 01:39:04 AEDT 2017 operation: makePurchase CardID: 0  ReciptID: 10011
+Mon Oct 23 08:36:17 AEDT 2017 operation: makePurchase CardID: 0  ReciptID: 10012
+Wed Apr 04 22:46:29 AEST 2018 operation: AddAnonymousCard CardID: 11 status: Added
+Thu Apr 05 11:42:40 AEST 2018 operation: makePurchase CardID: 0  ReciptID: 10013
+Thu Apr 05 11:45:27 AEST 2018 operation: AddBasicCard CardID: 12 status: Added
+Thu Apr 05 11:46:10 AEST 2018 operation: ViewCard CardID: 12 status: viewed
